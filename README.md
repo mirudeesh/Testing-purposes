@@ -1,2 +1,2 @@
-# badge!csmdnshejehehe
+# badge!
 **It is for getting achievements!**
